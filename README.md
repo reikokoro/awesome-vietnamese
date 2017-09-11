@@ -10,7 +10,7 @@ Những dự án mã nguồn mở do người Việt đóng góp trên 50%, ho�
 - [Capstone disassembly/disassembler framework](https://github.com/aquynh/capstone)
 - [Watso Word Watcher](https://github.com/dannguyen/watson-word-watcher)
 - [Mongoose plugin to enable deep population of nested models](https://github.com/buunguyen/mongoose-deep-populate)
-
+- [Plugin for creating and handling everything related to custom meta boxes and custom fields in WP](https://github.com/rilwis/meta-box)
 # TO DO
 - Phân loại
 - Tìm thêm các repo khác
